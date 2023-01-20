@@ -94,12 +94,12 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 ```sh
-https://github.com/anyepeter/Animals-database.git
+https://github.com/Suzi216/Vet-Clinic
 ```
 cd my-folder
 ```sh
   
-  cd Animals-database
+  cd Vet-Clinic
 ```
 
 <!-- AUTHORS -->
