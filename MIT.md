@@ -1,4 +1,8 @@
-Permission is hereby granted, free of charge, to any person obtaining a copy of this and associated documentation files, to deal in the  without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the [APP TYPE], and to permit persons to whom the  is furnished to do so, subject to the following conditions:
+MIT License
+
+Copyright (c) [2023] [Suzana Marsela]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this and associated documentation files, to deal in the  without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the project, and to permit persons to whom the  is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the .
 
